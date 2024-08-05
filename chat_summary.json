@@ -1,5 +1,23 @@
 [
     {
+        "role": "makeinfinite",
+        "content": "can you describe the project a bit more?",
+        "message_id": "mymessageid",
+        "timestamp": "05082024201131",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
+        "role": "makeinfinite",
+        "content": "can you describe the project a bit more?",
+        "message_id": "mymessageid",
+        "timestamp": "05082024201131",
+        "component_file_name": null,
+        "div_id": null,
+        "div_action": null
+    },
+    {
         "role": "user",
         "content": "add a navbar with the fields home, about and contact",
         "message_id": "mymessageid",
@@ -72,26 +90,8 @@
         "div_action": null
     },
     {
-        "role": "makeinfinite",
-        "content": "can you describe the project a bit more?",
-        "message_id": "mymessageid",
-        "timestamp": "05082024195018",
-        "component_file_name": null,
-        "div_id": null,
-        "div_action": null
-    },
-    {
-        "role": "user",
-        "content": "add a navbar with the fields home, about and contact",
-        "message_id": "mymessageid",
-        "timestamp": "05082024195018",
-        "component_file_name": null,
-        "div_id": null,
-        "div_action": null
-    },
-    {
         "role": "summary",
-        "content": "Can you describe the project a bit more?",
+        "content": "In the conversation, the AI assistant asks the user to provide more details about their project. The user responds by requesting the addition of a navigation bar featuring the fields \"home,\" \"about,\" and \"contact.\" The AI follows up by again asking for further project details.",
         "timestamp": "05082024201131",
         "message_id": "mymessageid"
     }
